@@ -18,7 +18,8 @@ Please connect via email: [irv0735@gmail.com](mailto:irv0735@gmail.com)
 # ⚡ Fun fact: ...
 For 2+ years I lived the "vanlife". Ask me about the challenges, joys and lessons that I learned along the way. 
 
-[![Nate's GitHub stats](https://github-readme-stats.vercel.app/api?username=irv0735)](https://github.com/irv0735/github-readme-stats)
+[![Nate's GitHub stats](https://github-readme-stats.vercel.app/api?username=irv0735)](https://github.com/irv0735&show_icons=true&theme=onedark)
+)
 
 
 <!--
