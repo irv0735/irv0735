@@ -6,9 +6,6 @@ Enhancing my web development and coding skills to launch into a development care
 # 🌱 I’m currently learning ...
 Online Learning courses in TypeScript and Python.
 
-# 👯 I’m looking to collaborate on ...
-Full-stack creative solutions to drive business and brand sales for content creators. Media consumption as we know it is shifting from large studio produced films to shorter stories that can be absorbed more rapidly. YouTube, Instagram and TikTok are all examples of this shift. I'm aspiring to help the new generation of creators grow their brand. 
-
 # 📫 How to reach me: ...
 Please connect via email: [irv0735@gmail.com](mailto:irv0735@gmail.com)
 
