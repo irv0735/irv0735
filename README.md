@@ -4,7 +4,7 @@
 Enhancing my web development and coding skills to launch into a development career that utilizes the business sense developed through my engineering and product management experience. Obtained a Full Stack Web Development Coding Bootcamp certificate from the University of Denver.
 
 # 🌱 I’m currently learning ...
-Online Learning courses in TypeScript and Python.
+Online Learning courses in TypeScript and React/Redux.
 
 # 📫 How to reach me: ...
 Please connect via email: [irv0735@gmail.com](mailto:irv0735@gmail.com)
